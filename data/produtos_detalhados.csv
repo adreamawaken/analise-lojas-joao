@@ -1,0 +1,31 @@
+loja_id,produto,categoria,quantidade_vendida,preco_unitario,receita_produto
+1,Smartphone Samsung,Eletrônicos,45,1200.00,54000
+1,Notebook Dell,Eletrônicos,25,2500.00,62500
+1,Fone Bluetooth,Eletrônicos,80,150.00,12000
+2,Vestido Social,Moda,120,180.00,21600
+2,Sapato Feminino,Moda,95,250.00,23750
+2,Bolsa de Couro,Moda,60,320.00,19200
+3,Sofá 3 Lugares,Casa e Jardim,15,1800.00,27000
+3,Mesa de Jantar,Casa e Jardim,12,950.00,11400
+3,Luminária LED,Casa e Jardim,35,120.00,4200
+4,Camisa Polo,Moda,150,85.00,12750
+4,Calça Jeans,Moda,110,120.00,13200
+4,Tênis Casual,Moda,80,180.00,14400
+5,iPhone 14,Eletrônicos,35,4200.00,147000
+5,MacBook Pro,Eletrônicos,18,8500.00,153000
+5,AirPods Pro,Eletrônicos,65,1200.00,78000
+6,Bicicleta MTB,Esportes,25,1200.00,30000
+6,Kit Musculação,Esportes,40,450.00,18000
+6,Tênis Running,Esportes,55,280.00,15400
+7,Jogo de Panelas,Casa e Jardim,30,350.00,10500
+7,Conjunto de Cama,Casa e Jardim,45,180.00,8100
+7,Aspirador de Pó,Casa e Jardim,20,520.00,10400
+8,Romance Nacional,Livros,85,45.00,3825
+8,Livro Técnico,Livros,42,120.00,5040
+8,HQ Marvel,Livros,150,25.00,3750
+9,Blusa Feminina,Moda,95,65.00,6175
+9,Saia Midi,Moda,70,85.00,5950
+9,Sandália,Moda,80,95.00,7600
+10,Tablet Android,Eletrônicos,40,800.00,32000
+10,Smart TV 55,Eletrônicos,28,2200.00,61600
+10,Caixa de Som,Eletrônicos,65,280.00,18200

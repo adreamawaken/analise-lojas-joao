@@ -1,0 +1,21 @@
+loja_id,nome_loja,faturamento_mensal,categoria_principal,produtos_vendidos,avaliacao_media,frete_medio,lat,lon,regiao
+1,Loja Centro SP,120000,Eletrônicos,1250,4.2,8.50,-23.550520,-46.633308,Sudeste
+2,Loja Jardins SP,180000,Moda,2100,4.6,12.30,-23.561414,-46.656565,Sudeste
+3,Loja Vila Madalena SP,95000,Casa e Jardim,850,4.1,9.80,-23.544590,-46.689308,Sudeste
+4,Loja Copacabana RJ,150000,Moda,1800,4.4,11.20,-22.971177,-43.182543,Sudeste
+5,Loja Ipanema RJ,200000,Eletrônicos,2200,4.7,13.50,-22.984393,-43.204629,Sudeste
+6,Loja Barra RJ,110000,Esportes,950,4.0,10.50,-23.012437,-43.364557,Sudeste
+7,Loja Savassi BH,85000,Casa e Jardim,720,4.3,7.90,-19.932997,-43.937502,Sudeste
+8,Loja Centro BH,75000,Livros,680,3.9,6.80,-19.917299,-43.934559,Sudeste
+9,Loja Boa Viagem Recife,90000,Moda,780,4.2,8.20,-8.113460,-34.896881,Nordeste
+10,Loja Aldeota Fortaleza,100000,Eletrônicos,920,4.1,9.10,-3.729565,-38.512985,Nordeste
+11,Loja Rio Vermelho Salvador,95000,Casa e Jardim,830,4.4,8.70,-13.009007,-38.497650,Nordeste
+12,Loja Moinhos Porto Alegre,130000,Moda,1150,4.5,10.20,-30.026318,-51.200657,Sul
+13,Loja Centro Curitiba,88000,Livros,750,4.2,7.50,-25.437707,-49.269928,Sul
+14,Loja Setor Bueno Goiânia,78000,Esportes,680,4.0,7.20,-16.707663,-49.244881,Centro-Oeste
+15,Loja Centro Brasília,140000,Eletrônicos,1300,4.3,11.80,-15.796311,-47.891479,Centro-Oeste
+16,Loja Centro Manaus,65000,Casa e Jardim,520,3.8,15.20,-3.119028,-60.021731,Norte
+17,Loja Vieiralves Manaus,82000,Moda,680,4.1,14.50,-3.089041,-60.058216,Norte
+18,Loja Ponta Verde Maceió,72000,Esportes,590,4.0,9.80,-9.666228,-35.704886,Nordeste
+19,Loja Centro Florianópolis,105000,Eletrônicos,980,4.4,8.90,-27.596929,-48.549228,Sul
+20,Loja Lagoa Florianópolis,125000,Moda,1080,4.6,10.50,-27.603542,-48.520945,Sul
